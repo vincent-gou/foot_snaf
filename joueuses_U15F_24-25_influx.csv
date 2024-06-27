@@ -3,3 +3,8 @@ id,prenom,nom,birth_year,birth_date,licence_id,foot,main_position,second_positio
 2,Rose,M,2010,,,Droit,Arrière,,3
 3,Aicha,B,2010,,,Droit,Arrière,,3
 4,Sasha,G,2011,07/11/2011,,Gauche,Milieu,Attaquante,7
+5,Luna,,2011,,,Droit,Gardienne,Gardienne,2
+6,Eva,D,2011,,,Gauche,Milieu,,6
+7,Elina,,2011,,,Droit,Attaquante,,5
+8,Clémence,T,2011,,,Gauche,Milieu,Arrière,5
+9,Pauline,Y,2010,,,Droit,Attaquante,Arriere,6
